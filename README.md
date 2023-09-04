@@ -1,16 +1,11 @@
-# demo1
+# Anime Walls
 
-A new Flutter project.
+Anime Walls is wallpaper application made with Flutter and node+mongodb with express as a backend. You can get any anime wallpaper and set as your lock screen or home screen background. You can also get other wallpapers also, i have used pexels API to fetch random wallpaper section.
+Used cached image network package to reduce memory leaks and unwanted usage of the internet.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+flutter pub get -to get dependencies 
+flutter build apk -to create apk version
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
