@@ -26,6 +26,12 @@ flutter build apk -to create apk version
 
 
 
+https://github.com/Abhi-audemars/AnimeWalls/assets/126351083/02d6497c-b8c5-4697-84c3-96d8704a6950
+
+
+
+
+
 
 
 
